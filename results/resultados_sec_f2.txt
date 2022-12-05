@@ -1,0 +1,16 @@
+Resultados de la implementación secuencial con la segunda función objetivo
+
+[-0.0015903083705228315, -0.0007895491876062088]
+Tiempo de ejecución: 15054 milliseconds
+
+[0.000875917570846596, -7.473529481982766e-5]
+Tiempo de ejecución: 13954 milliseconds
+
+[0.0017880270263877784, -0.0011203838298863226]
+Tiempo de ejecución: 13872 milliseconds
+
+[-0.0006138513450590841, -0.00033928795333287853]
+Tiempo de ejecución: 14377 milliseconds
+
+[-0.0007425642400104571, -4.647443461654806e-6]
+Tiempo de ejecución: 14628 milliseconds

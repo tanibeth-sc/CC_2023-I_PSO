@@ -1,0 +1,19 @@
+Resultados de la implementación secuencial con la función de Rosenbrock
+
+[0.9989179194766222, 0.9975087785462307]
+Tiempo de ejecución: 14006 milliseconds
+
+[1.0014594721830474, 1.002850969986567]
+Tiempo de ejecución: 14348 milliseconds
+
+[1.0147790750547143, 1.0298592249333982]
+Tiempo de ejecución: 13980 milliseconds
+
+[0.995678837633905, 0.9911949638071322]
+Tiempo de ejecución: 14847 milliseconds
+
+[0.9956869983219149, 0.9913228938047738]
+Tiempo de ejecución: 14460 milliseconds
+
+[0.9970275930565622, 0.9937168161195981]
+Tiempo de ejecución: 14011 milliseconds

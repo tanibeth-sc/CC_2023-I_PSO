@@ -1,0 +1,38 @@
+Resultados con 5 procesadores
+
+Rosenbrock
+
+[0.9980906286511547, 0.9952434997357361]
+Tiempo de ejecución: 9797 milliseconds
+
+[1.0005540450450767, 1.0002120864057495]
+Tiempo de ejecución: 10260 milliseconds
+
+[0.9970600225683682, 0.9939390233501442]
+Tiempo de ejecución: 10019 milliseconds
+
+[1.001015795445003, 1.0025807332029473]
+Tiempo de ejecución: 8950 milliseconds
+
+[1.006213271518388, 1.0128493139964727]
+Tiempo de ejecución: 9484 milliseconds
+
+
+
+
+Parábola
+
+[-0.0024680941172618986, 0.0014022570950693591]
+Tiempo de ejecución: 8245 milliseconds
+
+[0.0002400024635140774, -0.0009527983870807333]
+Tiempo de ejecución: 10667 milliseconds
+
+[-0.0037242850955926526, 0.002433088955153262]
+Tiempo de ejecución: 9096 milliseconds
+
+[-0.0005023989682218788, 0.002108303596141948]
+Tiempo de ejecución: 9623 milliseconds
+
+[-7.086598588469661e-5, 0.0023779059485800128]
+Tiempo de ejecución: 8605 milliseconds

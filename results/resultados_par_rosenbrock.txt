@@ -1,0 +1,16 @@
+Resultados de la implementación paralela con la función de Rosenbrock
+
+[1.0087390817538542, 1.0181065696733016]
+Tiempo de ejecución: 5111 milliseconds
+
+[1.008735072612504, 1.0182035715149427]
+Tiempo de ejecución: 5130 milliseconds
+
+[0.9992915084162737, 0.9982927603140856]
+Tiempo de ejecución: 5110 milliseconds
+
+[1.0066902596121396, 1.011809931102551]
+Tiempo de ejecución: 5022 milliseconds
+
+[0.993489849573276, 0.9871483752487977]
+Tiempo de ejecución: 5079 milliseconds

@@ -1,0 +1,16 @@
+Resultados de la implementación paralela con la segunda función objetivo
+
+[0.00040111159476116653, 0.0009324206598987361]
+Tiempo de ejecución: 5138 milliseconds
+
+[0.0010201923111319289, -0.0019279647676953005]
+Tiempo de ejecución: 5065 milliseconds
+
+[-0.0017080431233441606, -0.0017596879534644838]
+Tiempo de ejecución: 5147 milliseconds
+
+[-0.001098460754045072, 0.0016380399816820074]
+Tiempo de ejecución: 5164 milliseconds
+
+[-0.00036456387377756944, -0.0008708057753795483]
+Tiempo de ejecución: 5085 milliseconds
